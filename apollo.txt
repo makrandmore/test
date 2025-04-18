@@ -1,0 +1,23 @@
+Case Study 1: Cloud Adoption in Healthcare – Apollo Hospitals
+
+Background:
+Apollo Hospitals, one of India’s leading healthcare chains, faced challenges managing its massive data across different branches, including patient records, diagnostic results, and medical imaging.
+
+Problem:
+1.Disparate systems led to slow access to patient data.
+2.Difficulty in real-time collaboration between doctors across different cities.
+3.Rising costs of maintaining on-premises servers.
+
+Cloud Solution:
+1.Apollo adopted Microsoft Azure to host electronic health records (EHRs) and imaging data. 
+2.They implemented a hybrid cloud model to ensure critical data is stored locally while using the cloud for storage, analytics, and backups.
+
+Outcome:
+1.40% reduction in operational IT costs.
+2.Faster diagnostics using AI tools on cloud.
+3.Enhanced data security and compliance with medical regulations.
+4.Doctors could access patient history instantly across any location.
+
+Key Learnings:
+1.Cloud enables scalability and real-time data access in healthcare.
+2.Hybrid cloud ensures data control and regulatory compliance.

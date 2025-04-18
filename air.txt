@@ -1,0 +1,15 @@
+Case Study 4: Airbnb
+Overview
+Airbnb is a popular online marketplace that connects travelers with hosts offering unique accommodations. With millions of listings worldwide, Airbnb relies on cloud computing to manage its platform.
+
+Cloud Computing Solution
+Airbnb uses Amazon Web Services (AWS) and Google Cloud Platform (GCP) to host its applications and store its data. Cloud computing provides Airbnb with:
+1. Scalability: Airbnb can handle sudden spikes in traffic and user activity.
+2. Flexibility: Airbnb can quickly deploy new features and services.
+3. Data analytics: Airbnb can analyze large datasets to gain insights into user behavior.
+Benefits
+1. Improved user experience: Airbnb's platform is always available and responsive.
+2. Increased innovation: Airbnb can quickly develop and deploy new features.
+3. Data-driven decision-making: Airbnb can make informed decisions based on data analysis.
+
+These case studies demonstrate how cloud computing can help businesses like Netflix and Airbnb scale, innovate, and improve their services.
